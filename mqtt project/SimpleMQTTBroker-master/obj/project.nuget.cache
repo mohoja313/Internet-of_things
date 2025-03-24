@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1EoPbq+9Mp1xoSTi7G5/INcPzivxshWhJQUx7JykC6i+OI4O52foMOqRTVR4JFUObV0XD4TtSi6KsxqcYzSmWA==",
+  "success": true,
+  "projectFilePath": "D:\\sumer\\mqtt project\\SimpleMQTTBroker-master\\SimpleMQTTBroker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moham\\.nuget\\packages\\mqttnet\\3.1.1\\mqttnet.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

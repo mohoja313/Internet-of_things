@@ -1,0 +1,10 @@
+C:\Users\moham\OneDrive\Documents\B&W\c#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\moham\OneDrive\Documents\B&W\c#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\moham\OneDrive\Documents\B&W\c#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\moham\OneDrive\Documents\B&W\c#\ConsoleApp3\ConsoleApp3\bin\Debug\websocket-sharp.dll
+C:\Users\moham\OneDrive\Documents\B&W\c#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Documents\B&W\c#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\OneDrive\Documents\B&W\c#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\B&W\c#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\moham\OneDrive\Documents\B&W\c#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\moham\OneDrive\Documents\B&W\c#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
